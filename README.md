@@ -23,4 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&locale=en" alt="kgchinthana" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&&show_icons=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kgchinthana&theme=blueberry_duo"/>
+
+
 
