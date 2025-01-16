@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgchinthana&show_icons=true&locale=en&layout=compact" alt="kgchinthana" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&locale=en&count_private=true" alt="kgchinthana" /></p>
 
 
