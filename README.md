@@ -7,17 +7,15 @@
 
 ---
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kgchinthana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://twitter.com/kavichinthana99" target="blank">
     <img src="https://img.shields.io/twitter/follow/kavichinthana99?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
----
-
-<h3 align="center">💬 Connect with me:</h3>
-<p align="center">
+<h3 align="right">💬 Connect with me:</h3>
+<p align="right">
   <a href="https://twitter.com/kavichinthana99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
