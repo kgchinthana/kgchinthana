@@ -25,5 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&locale=en&count_private=true" alt="kgchinthana" /></p>
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&&show_icons=true&count_private=true&theme=github_dark">
 
