@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavindu Chinthana</h1>
 <h3 align="center">B.Sc. in Engineering Hons.(UG) - Computer Science and Engineering - University of Moratuwa</h3>
-<img align="right" alt ="Coding" width = "400" src = "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
+<img align="right" alt ="Coding" width = "400" src = "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif&theme=github_dark" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgchinthana&label=Profile%20views&color=0e75b6&style=flat" alt="kgchinthana" /> </p>
 
