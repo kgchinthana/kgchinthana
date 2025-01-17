@@ -43,9 +43,8 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgchinthana&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark" alt="kgchinthana" /></p>
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kgchinthana&&show_icons=true&count_private=true&theme=github_dark" alt="kgchinthana">
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kgchinthana&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&count_private=true&theme=github_dark&card_width=400" alt="GitHub Stats" />
+</div>
 
