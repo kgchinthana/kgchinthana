@@ -45,7 +45,7 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kgchinthana&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark" alt="Top Languages" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" width="400" />
 </div>
 
 
