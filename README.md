@@ -53,9 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgchinthana&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kgchinthana&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kgchinthana&icon=0&color=8)](https://visitcount.itsvg.in)
-
