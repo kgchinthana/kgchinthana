@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
