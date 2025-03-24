@@ -42,10 +42,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kgchinthana&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
