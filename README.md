@@ -52,3 +52,9 @@
 <p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kgchinthana&theme=dark&border_radius=5&card_width=499" alt="GitHub Streak" /></a>
 </p>
+
+### 
+
+<img src="https://raw.githubusercontent.com/kgchinthana/kgchinthana/output/snake.svg" alt="Snake animation" /> 
+
+###
