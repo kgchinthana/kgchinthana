@@ -55,6 +55,6 @@
 
 ### 
 
-<img src="[https://raw.githubusercontent.com/kgchinthana/kgchinthana/output/snake.svg](https://raw.githubusercontent.com/kgchinthana/kgchinthana/4dc3c62f0a35fa2a7bdeeefc7963a130341d3af8/snake.svg)" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/kgchinthana/kgchinthana/4dc3c62f0a35fa2a7bdeeefc7963a130341d3af8/snake.svg" alt="Snake animation" /> 
 
 ###
