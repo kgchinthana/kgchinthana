@@ -2,7 +2,7 @@
 <h3 align="center">B.Sc. in Engineering Hons. (UG) - Computer Science and Engineering - University of Moratuwa</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding" width="400" />
+  <img src="https://raw.githubusercontent.com/kgchinthana/kgchinthana/d0a2d5870f0ecf39b944e51f6c0eb9dc42f6c87b/output-onlinegiftools.gif" alt="Coding" width="400" />
 </p>
 
 ---
