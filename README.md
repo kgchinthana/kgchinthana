@@ -41,16 +41,10 @@
 </p>
 
 <p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=kgchinthana&show_icons=true&locale=en&layout=compact&theme=dark" 
-       alt="Aravinda-HWK" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kgchinthana&theme=dark&border_radius=5&card_width=499" alt="GitHub Streak" /></a>
   &nbsp;<img align="center" 
              src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&locale=en&theme=dark" 
-             alt="Aravinda-HWK" />
-</p>
-
-<p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kgchinthana&theme=dark&border_radius=5&card_width=499" alt="GitHub Streak" /></a>
+             alt="GitHub Stat" />
 </p>
 
 ### 
