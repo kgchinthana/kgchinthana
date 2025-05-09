@@ -42,9 +42,9 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kgchinthana&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=kgchinthana&theme=dark&border_radius=5&card_width=350" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&locale=en&theme=dark" alt="GitHub Stat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kgchinthana&show_icons=true&locale=en&theme=dark&border_radius=5&card_width=350" alt="GitHub Stat" />
 </div>
 
 
